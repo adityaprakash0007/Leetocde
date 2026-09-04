@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/adityaprakash0007/Leetocde/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/adityaprakash0007/Leetocde/tree/master/3903-smallest-stable-index-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/adityaprakash0007/Leetocde/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
