@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/0002-add-two-numbers) |
+| [3870-count-commas-in-range](https://github.com/adityaprakash0007/Leetocde/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
