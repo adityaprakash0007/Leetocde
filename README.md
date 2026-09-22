@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/0002-add-two-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaprakash0007/Leetocde/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaprakash0007/Leetocde/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/adityaprakash0007/Leetocde/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adityaprakash0007/Leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3525-find-x-value-of-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityaprakash0007/Leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaprakash0007/Leetocde/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
