@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash0007/Leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/adityaprakash0007/Leetocde/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaprakash0007/Leetocde/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaprakash0007/Leetocde/tree/master/3498-reverse-degree-of-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/adityaprakash0007/Leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/3483-unique-3-digit-even-numbers) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -113,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
