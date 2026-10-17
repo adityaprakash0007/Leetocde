@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaprakash0007/Leetocde/tree/master/1004-max-consecutive-ones-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash0007/Leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaprakash0007/Leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0930-binary-subarrays-with-sum) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
