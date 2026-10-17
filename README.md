@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaprakash0007/Leetocde/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/adityaprakash0007/Leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash0007/Leetocde/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
