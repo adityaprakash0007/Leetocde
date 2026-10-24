@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/adityaprakash0007/Leetocde/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/adityaprakash0007/Leetocde/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaprakash0007/Leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash0007/Leetocde/tree/master/0678-valid-parenthesis-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash0007/Leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/adityaprakash0007/Leetocde/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaprakash0007/Leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash0007/Leetocde/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/adityaprakash0007/Leetocde/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaprakash0007/Leetocde/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0930-binary-subarrays-with-sum) |
