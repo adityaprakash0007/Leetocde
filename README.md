@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adityaprakash0007/Leetocde/tree/master/0860-lemonade-change) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/adityaprakash0007/Leetocde/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash0007/Leetocde/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash0007/Leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/adityaprakash0007/Leetocde/tree/master/0860-lemonade-change) |
