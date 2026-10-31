@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adityaprakash0007/Leetocde/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/adityaprakash0007/Leetocde/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash0007/Leetocde/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaprakash0007/Leetocde/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash0007/Leetocde/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/adityaprakash0007/Leetocde/tree/master/0860-lemonade-change) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
