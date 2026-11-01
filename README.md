@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/adityaprakash0007/Leetocde/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaprakash0007/Leetocde/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaprakash0007/Leetocde/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaprakash0007/Leetocde/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaprakash0007/Leetocde/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaprakash0007/Leetocde/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adityaprakash0007/Leetocde/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/adityaprakash0007/Leetocde/tree/master/0904-fruit-into-baskets) |
