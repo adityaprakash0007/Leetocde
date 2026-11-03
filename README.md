@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/adityaprakash0007/Leetocde/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityaprakash0007/Leetocde/tree/master/0453-minimum-moves-to-equal-array-elements) |
