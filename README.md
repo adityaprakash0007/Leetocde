@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaprakash0007/Leetocde/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaprakash0007/Leetocde/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaprakash0007/Leetocde/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityaprakash0007/Leetocde/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash0007/Leetocde/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adityaprakash0007/Leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityaprakash0007/Leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaprakash0007/Leetocde/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3903-smallest-stable-index-i](https://github.com/adityaprakash0007/Leetocde/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/adityaprakash0007/Leetocde/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/adityaprakash0007/Leetocde/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaprakash0007/Leetocde/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaprakash0007/Leetocde/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityaprakash0007/Leetocde/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaprakash0007/Leetocde/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/adityaprakash0007/Leetocde/tree/master/3886-sum-of-sortable-integers) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaprakash0007/Leetocde/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaprakash0007/Leetocde/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
