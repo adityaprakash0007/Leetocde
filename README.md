@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaprakash0007/Leetocde/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/adityaprakash0007/Leetocde/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaprakash0007/Leetocde/tree/master/1267-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityaprakash0007/Leetocde/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaprakash0007/Leetocde/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/adityaprakash0007/Leetocde/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaprakash0007/Leetocde/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaprakash0007/Leetocde/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adityaprakash0007/Leetocde/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaprakash0007/Leetocde/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaprakash0007/Leetocde/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaprakash0007/Leetocde/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/adityaprakash0007/Leetocde/tree/master/3665-twisted-mirror-path-count) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adityaprakash0007/Leetocde/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaprakash0007/Leetocde/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityaprakash0007/Leetocde/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaprakash0007/Leetocde/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adityaprakash0007/Leetocde/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/adityaprakash0007/Leetocde/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityaprakash0007/Leetocde/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quicksort
 |  |
@@ -347,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityaprakash0007/Leetocde/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/adityaprakash0007/Leetocde/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
