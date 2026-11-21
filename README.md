@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash0007/Leetocde/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityaprakash0007/Leetocde/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/adityaprakash0007/Leetocde/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash0007/Leetocde/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaprakash0007/Leetocde/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaprakash0007/Leetocde/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaprakash0007/Leetocde/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaprakash0007/Leetocde/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityaprakash0007/Leetocde/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityaprakash0007/Leetocde/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/adityaprakash0007/Leetocde/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/3693-climbing-stairs-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/adityaprakash0007/Leetocde/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adityaprakash0007/Leetocde/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/adityaprakash0007/Leetocde/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityaprakash0007/Leetocde/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaprakash0007/Leetocde/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaprakash0007/Leetocde/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/adityaprakash0007/Leetocde/tree/master/3886-sum-of-sortable-integers) |
