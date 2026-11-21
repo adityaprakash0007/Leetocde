@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityaprakash0007/Leetocde/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaprakash0007/Leetocde/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/adityaprakash0007/Leetocde/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/adityaprakash0007/Leetocde/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityaprakash0007/Leetocde/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/adityaprakash0007/Leetocde/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityaprakash0007/Leetocde/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaprakash0007/Leetocde/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/adityaprakash0007/Leetocde/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/adityaprakash0007/Leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash0007/Leetocde/tree/master/0678-valid-parenthesis-string) |
